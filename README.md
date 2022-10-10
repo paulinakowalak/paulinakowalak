@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning Javascript and all front-end related stuff. 
+I’m currently learning Javascript and all front-end related stuff. 🌱 
 
 Keep your fingers crossed!
 
